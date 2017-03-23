@@ -1,3 +1,5 @@
-This is a very pleriminary veresion of the consistency checking tool. It allow to check consistency guidelines in the two bpmn models provided in the folder.  
+#How-To
 
-Running the executable jar a txt file containing the check result will be created.
+This is a pleriminary veresion of the consistency checking tool. It allow to check consistency guidelines in a multi-layer BPMN Collaboration. Running the executable jar a simple user interface allows to load the bpmn files of each layer. Please note that each sub-process in each layer have to be specified by a bpmn file.
+
+As example, please use the bpmn file provided in the folder.
