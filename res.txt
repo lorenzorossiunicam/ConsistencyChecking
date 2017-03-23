@@ -1,2 +1,0 @@
-G4 violation of message 'm1'
-G3 violation of message 'm3'
